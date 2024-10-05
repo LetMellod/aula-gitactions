@@ -12,6 +12,7 @@ on:
         - main
         - master
         - develop
+        - hotfix
 
 # quais são os trabalhos (tarefas) a serem executadas pelo workflow
 jobs:
